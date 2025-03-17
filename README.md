@@ -1,5 +1,5 @@
 # Bank-Loan-Performance-Analysis
-This Project analyzed the percentage of Good and Bad Loan Applications
+This Project analyzed the percentage, Impact and Overcomes of Good and Bad Loan Applications
 # Tools Used
 - MYSQl
 - PowerBI
